@@ -1,0 +1,7 @@
+# junk
+__pycache__/
+*.pyc
+*.log
+*.npy
+*.blob
+_tmp/
